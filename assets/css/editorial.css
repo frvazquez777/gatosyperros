@@ -6,15 +6,19 @@ h1 {
     font-weight: 700;
 }
 
+h2 {
+	color: #323232;
+}
+
 a {
     text-decoration: none;
     color: #FFFFFF;
 }
 
 ol {
-	list-style: decimal;
+/*	list-style: decimal;*/
 }
 
 li {
-	color: color: #000000;
+	color: #000000;
 }
