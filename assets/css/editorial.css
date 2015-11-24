@@ -10,3 +10,11 @@ a {
     text-decoration: none;
     color: #FFFFFF;
 }
+
+ol {
+	list-style: decimal;
+}
+
+li {
+	color: color: #000000;
+}
