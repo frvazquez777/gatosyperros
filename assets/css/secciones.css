@@ -11,3 +11,7 @@
     box-sizing: border-box;
     height: 100%;
 }
+
+li {
+	color: #000000;
+}
