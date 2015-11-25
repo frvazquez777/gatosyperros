@@ -20,16 +20,21 @@ header {
 footer {
     bottom: 0;
 }
-
-
-footer a{
-    color:#c3c1c1; 
-}
-
 header img {
     width: 250px;
     display: block;
 }
 
+img {
+    width: 100%
+}
 
+.same-height {
+    max-height: 154px;
+    overflow: hidden;
+}
 
+.float {
+    display: inline;
+    max-width: 15%;
+}
