@@ -13,6 +13,11 @@ header, footer {
     color: #c3c1c1;
 }
 
+.layout_a:hover{
+    text-decoration: underline;
+    color: #ffffff;
+}
+
 header {
     top: 0;
 }
@@ -33,7 +38,7 @@ img {
     max-height: 300px;
     overflow: hidden;
 }
-
+    
 .float {
     display: inline;
     max-width: 15%;
