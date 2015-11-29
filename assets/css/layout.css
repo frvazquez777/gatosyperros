@@ -11,6 +11,13 @@ header, footer {
 
 .layout_a {
     color: #c3c1c1;
+    transition:all 5s linear;
+}
+
+.layout_a:hover{
+    text-decoration: underline;
+    background-color: red;
+    color: #ffffff;
 }
 
 header {
@@ -30,11 +37,19 @@ img {
 }
 
 .same-height {
-    max-height: 154px;
+    max-height: 300px;
     overflow: hidden;
 }
-
+    
 .float {
     display: inline;
     max-width: 15%;
+}
+
+.imagen-avatar{
+    max-height: 20%;
+    width: 200px;
+    height: 550px;
+    overflow: hidden;
+
 }
