@@ -11,10 +11,12 @@ header, footer {
 
 .layout_a {
     color: #c3c1c1;
+    transition:all 5s linear;
 }
 
 .layout_a:hover{
     text-decoration: underline;
+    background-color: red;
     color: #ffffff;
 }
 
