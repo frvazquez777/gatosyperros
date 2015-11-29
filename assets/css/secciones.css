@@ -15,3 +15,16 @@
 	height: 100%;
     padding: 15% 0 0 0;
 }
+
+.single {
+	margin-top: 130px;
+}
+
+.info {
+	background-color:  #eaeff5;
+	color: #888d9b;
+	padding: 20px;
+	font-size: 10px;
+	text-transform: uppercase;
+	margin-bottom: 10px;
+}
